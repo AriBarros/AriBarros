@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Hello, user! I am a Computer Technician for the Internet and Computer Engineering student. I am working as a front-end developer using frameworks as Vue.js and React.JS</b>
+</h1>
 
-<!--
-**AriBarros/AriBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hope you enjoy my profile!
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://github.com/aribarros">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aribarros&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribarros&layout=compact&langs_count=7&theme=onedark"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Where you cand find me</b>
+
+<div>
+  <a href="https://github.com/aribarros" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://instagram.com/aribarross" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:aristotelespbarros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/aristotelesbarros/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+  
+</div>
+
+<div>
+  <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
+
+<br>
