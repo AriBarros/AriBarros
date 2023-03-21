@@ -4,13 +4,6 @@
 
 Hope you enjoy my profile!
 
-<p align="left">
-  <a href="https://github.com/aribarros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aribarros&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribarros&layout=compact&langs_count=7&theme=onedark"/>
-  </a>
-</p>
-
 <b>Where you cand find me</b>
 
 <div>
