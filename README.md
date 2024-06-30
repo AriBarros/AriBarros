@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hello, user! I am a Computer Technician for the Internet and Computer Engineering student. I am working as a front-end developer using frameworks as Vue.js and React.JS</b>
+  <b>Aristoteles Barros</b>
 </h1>
 
 Hope you enjoy my profile!
